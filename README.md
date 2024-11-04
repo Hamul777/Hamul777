@@ -1,4 +1,4 @@
-## Flutter 개발자, 김우원입니다! 🙌🏻
+## FrontEnd 개발자, 김우원입니다! 🙌🏻
 **Cross Platform Developer** 기획하고 UX/UI를 고려하는 개발자입니다.
 
 **Notion** - [https://hamul777.notion.site](https://hamul777.notion.site/Flutter-cbbc59a75bba4ba98fb6df2ffc044238) <br>
